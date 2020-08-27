@@ -73,7 +73,7 @@ export interface BackgroundModeConfiguration {
   pluginName: 'BackgroundMode',
   plugin: 'cordova-plugin-background-mode',
   pluginRef: 'cordova.plugins.backgroundMode',
-  repo: 'https://github.com/katzer/cordova-plugin-background-mode',
+  repo: 'https://github.com/7alerrandro7/cordova-plugin-background-mode',
   platforms: ['AmazonFire OS', 'Android', 'Browser', 'iOS', 'Windows'],
 })
 @Injectable()
